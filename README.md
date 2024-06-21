@@ -1,4 +1,4 @@
-We designed a graphic interface for cinema management questions in this program.
+I designed a graphic interface for cinema management in this program.
 
 Also, the following features have been added to this program:
 
